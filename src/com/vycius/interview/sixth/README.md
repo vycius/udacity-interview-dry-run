@@ -1,0 +1,3 @@
+> What are your thoughts about Fragments? Do you like or hate them? Why?
+
+Fragments leads to more flexible UI of Android app. Main reasons to use them is for their backstack and lifecycle features. Most of the time views are far simpler, easier and more lightweight to use. I can't say that I am really huge fan of fragments. Although sometimes you really need to use them, otherwise you need to manage complicated lifecycles and changes to the views hierarchy. 

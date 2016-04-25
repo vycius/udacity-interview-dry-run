@@ -1,0 +1,3 @@
+> Given a directed graph, design an algorithm to find out whether there is a route between two nodes. The method signature is: “public static < T > boolean findPath(GraphNode< T > start, GraphNode< T > end)”. Assume you have a “GraphNode” class that has a getChildren() method, which returns a List< GraphNode< T >> object. You must write all code in proper Java, and please include import statements for any libraries you use (no need to import GraphNode).
+
+Simple implementation of non recursive `findPath` with few Unit tests.
